@@ -74,7 +74,7 @@ const config = {
             { label: 'FAQ', to: '/docs/faq' },
             { label: 'Support', to: '/docs/support' },
             { label: 'Privacy-policy', to: '/docs/privacy-policy' },
-            { label: 'customer-protection-policy', to: '/docs/customer-protection-policy' },
+            { label: 'Terms of Service', to: '/docs/customer-protection-policy' },
           ],
         },
       ],
