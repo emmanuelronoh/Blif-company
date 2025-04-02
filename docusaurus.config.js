@@ -78,7 +78,7 @@ const config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Blif. All rights reserved.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Blif by FluxorAi. All rights reserved.`,
     },
     prism: {
       theme: prismThemes.github,
